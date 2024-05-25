@@ -7,7 +7,7 @@ My name is Vladislav Smirnov, and I have been actively developing my skills in P
 - Web Development: Developing web applications using Flask and Django.
 - Projects: Completed 4 educational projects, each of which helped me deepen my knowledge and skills.
 
-* ✉️  You can contact me at [telegram: @ribeyra](mailto:telegram: @ribeyra)
+* You can contact me at [telegram: @ribeyra](@ribeyra)
 
 ### Skills
 
