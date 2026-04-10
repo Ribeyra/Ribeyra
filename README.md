@@ -6,8 +6,8 @@ Creator & Maintainer of **Loyalty Machine** — modular open-source loyalty plat
 **Focus:** Modular architecture, scalable systems, developer experience  
 **Philosophy:** Clean code, documentation-first, community-driven development  
 
-[loyalty.machine@gmail.com](loyalty.machine@gmail.com)
-Telegram: [@ribeyra](@ribeyra)
+[loyalty.machine@gmail.com](mailto:loyalty.machine@gmail.com)  
+tg: [@ribeyra](https://t.me/ribeyra)
 
 ### Skills
 
