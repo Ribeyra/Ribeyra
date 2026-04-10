@@ -2,9 +2,9 @@
 
 Creator & Maintainer of **Loyalty Machine** — modular open-source loyalty platform.
 
-**Stack:** Python, FastAPI, Django, PostgreSQL, Docker, Telegram Bot API
-**Focus:** Modular architecture, scalable systems, developer experience
-**Philosophy:** Clean code, documentation-first, community-driven development
+**Stack:** Python, FastAPI, Django, PostgreSQL, Docker, Telegram Bot API  
+**Focus:** Modular architecture, scalable systems, developer experience  
+**Philosophy:** Clean code, documentation-first, community-driven development  
 
 [loyalty.machine@gmail.com](loyalty.machine@gmail.com)
 Telegram: [@ribeyra](@ribeyra)
