@@ -1,13 +1,13 @@
 ## Hi there 👋   
 
-My name is Vladislav Smirnov, and I have been actively developing my skills in Python programming for a year and a half. I am committed to continuously improving my skills and writing high-quality code. My journey in programming includes:
+Creator & Maintainer of **Loyalty Machine** — modular open-source loyalty platform.
 
-- Programming Fundamentals: Successfully completed a series of online courses covering key aspects of development.
-- Python: The primary programming language I work with daily.
-- Web Development: Developing web applications using Flask and Django.
-- Projects: Completed 4 educational projects, each of which helped me deepen my knowledge and skills.
+**Stack:** Python, FastAPI, Django, PostgreSQL, Docker, Telegram Bot API
+**Focus:** Modular architecture, scalable systems, developer experience
+**Philosophy:** Clean code, documentation-first, community-driven development
 
-You can contact me at telegram: [@ribeyra](@ribeyra)
+[loyalty.machine@gmail.com](loyalty.machine@gmail.com)
+Telegram: [@ribeyra](@ribeyra)
 
 ### Skills
 
